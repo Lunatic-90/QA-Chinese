@@ -1,0 +1,74 @@
+Prefix: §8[§2QualityArmory§8]§r
+NoPermAnvilMessage: ' §a 你没有权限进行合成！ Shift+Click to access anvil.'
+NoPerm: §c 你没有权限执行这项操作！
+Reload: ' QuailtyArmory的枪械和配置已经重新加载完毕！'
+ShopName: '武器商店:'
+NoMoney: 你的金钱不足以购买它。
+CraftingBenchName: 合成军械：
+Missing_Ingredients: 你没有足够的材料制作....
+NoResourcepackMessage1: ' §c§l 正在下载资源包.....'
+NoResourcepackMessage2: ' §f 安装资源包以进行查看服务器的自定义内容！'
+Lore_Ammo: §a使用弹药
+lore_bullets: §a子弹
+Lore_Damage: §a伤害
+Lore_Durib: 耐久
+Lore_ingredients: 合成材料
+Lore_Variants: '§7变种:'
+Lore_Price: '§6价格: '
+Lore_DamagePerSecond: §2每秒伤害（DPS）
+Lore_Crafts: Crafts
+Lore_Returns: Returns
+Reloading_Message: 装填中.....
+State_AmmoCount: 剩余弹药[%total%]
+State_OutOfAmmo: '[%total%]'
+HotbarMessage: '%name% = %amount%/%max% %state%'
+Kick_message_if_player_denied_request: "§c 您因为没有\
+  \ 未成功 安装资源包而被断开连接. \n§f 如果您想重新加入, 请到编辑服务器页面\
+  \ 将 \"服务器资源包\" 改为 \"启用\"'"
+Lore-LMB-Single: §8[鼠标左键] 单发射击
+Lore-LMB-FullAuto: §8[潜行]+[鼠标左键] 全自动射击
+Lore-RMB-Reload: §8[鼠标右键] 装填弹药
+Lore-Ironsights-RMB: §8[鼠标右键] 启用瞄准功能
+Lore-Ironsights-Sneak: §8[潜行] 启用瞄准功能
+Lore-Reload-Dropitem: §8[丢弃键] 装填弹药
+Lore-Reload-RMB: §8[鼠标右键] 装填弹药
+Lore-Helmet-RMB: §8[鼠标右键] 装备头盔.
+Shop_Confirm: §a你使用 $%cost% 购买了 %item% !
+Resourcepack_InCaseOfCrash: 如果资源包导致您的客户端崩溃，请删除资源包并使用 /qa getResourcepack 指令以重新获取资源包.
+Resourcepack_Download: 下载此资源包并启用它以查看服务器自定义项目（加载可能需要一些时间，请耐心等待...）
+Resourcepack_NowBypass: 通过此命令，您现在已把服务器资源包添加到客户端白名单中。您应该不会再收到资源包提示....
+Resourcepack_NowOptIn: 通过发出此命令，您把服务器资源包从客户端白名单中删除。您可能会再次收到资源包提示...
+grenadeAlreadyPulled: 你拔掉了安全栓！
+grenadePull: ' 请先拔掉安全栓！'
+Medkit-FullyHealed: §f你的状态良好，现在不需要恢复这个！
+Medkit-Healing: 恢复中！
+Medkit-Bleeding: '失血状态:'
+Medkit-HEALING_HEARTS_AMOUNT: 1.0
+Medkit-HEALING_WEAPPING_DELAY_IN_SECONDS: 6.0
+Medkit-Lore_RMB: §f[鼠标左键] 恢复自己！
+Bleeding:
+  Losingconsciousness: §c你正在因失血过多而失去意识....
+  StartBleeding: §c你受伤了！尽快找治疗物品恢复！！
+  ProtectedByKevlar: §a你的防弹衣保护了你！
+gui:
+  prevPage: '§6上一页...'
+  nextPage: '§6下一页...'
+AmmoBag:
+  current: '§a弹药: '
+  type: '§a弹药标签: '
+EntityType:
+  IRON_INGOT: IRON_INGOT
+  REDSTONE: REDSTONE
+  OAK_PLANKS: OAK_PLANKS
+  GOLD_INGOT: GOLD_INGOT
+  BLAZE_POWDER: BLAZE_POWDER
+  WHITE_DYE: WHITE_DYE
+  WHITE_WOOL: WHITE_WOOL
+  GUNPOWDER: GUNPOWDER
+  BLAZE_ROD: BLAZE_ROD
+  TNT: TNT
+  STRING: STRING
+  LEATHER: LEATHER
+  NETHER_STAR: NETHER_STAR
+  GOLDEN_APPLE: GOLDEN_APPLE
+  OBSIDIAN: OBSIDIAN
